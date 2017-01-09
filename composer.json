@@ -8,5 +8,12 @@
         "psr-0" : {
             "Payonyx\\Themes" : ""
         }
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/dfrasee/assets-admin-theme-bundle",
+            "type": "vcs"
+        }
+        ]
     }
 }
